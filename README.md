@@ -30,12 +30,12 @@ jupyter notebook Diabetic_Prediction.ipynb
 # Model Training
 The model is trained using various algorithms such as:
 
-Logistic Regression
-Decision Trees
-Random Forest
-Support Vector Machine
-The training process involves:
+1. Logistic Regression
+2. Decision Trees
+3. Random Forest
+4. Support Vector Machine
 
+The training process involves:
 Data preprocessing (handling missing values, normalization).
 Splitting the dataset into training and testing sets.
 Training the model and evaluating its performance using accuracy, precision, and recall.
