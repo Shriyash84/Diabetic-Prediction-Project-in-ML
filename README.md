@@ -1,4 +1,4 @@
-# Diabetic-Prediction-Project-in-ML
+# Diabetic-Prediction-Project Using ML
 
 ## Project Overview
 The Diabetic Prediction Project aims to develop a machine learning model that predicts the likelihood of a patient having diabetes based on various health metrics. The model is trained on a dataset containing patient information, and it utilizes classification algorithms to make predictions.
