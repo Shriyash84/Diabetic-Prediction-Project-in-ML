@@ -36,9 +36,9 @@ The model is trained using various algorithms such as:
 4. Support Vector Machine
 
 The training process involves:
-Data preprocessing (handling missing values, normalization).
-Splitting the dataset into training and testing sets.
-Training the model and evaluating its performance using accuracy, precision, and recall.
+1. Data preprocessing (handling missing values, normalization).
+2. Splitting the dataset into training and testing sets.
+3. Training the model and evaluating its performance using accuracy, precision, and recall.
 
 # Results
 The final model achieved an accuracy of X% on the test dataset. Further analysis can be found in the notebook, including confusion matrices and ROC curves.
